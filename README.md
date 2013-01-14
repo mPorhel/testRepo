@@ -1,4 +1,4 @@
 testRepo
 ========
 
-repo to try som stuff..
+repo to try some stuff..
